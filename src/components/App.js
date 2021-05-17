@@ -10,7 +10,7 @@ class App extends Component {
 	}
 	changeMessage() {
 		this.setState({
-			message: " Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy"
+			message: "Hello, I've learnt to use the full-stack evaluation tool. This makes me so happy"
 		})
 	}
     render() {
